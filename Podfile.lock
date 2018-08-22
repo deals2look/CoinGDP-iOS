@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AlertOnboarding (2.0)
+  - CarbonKit (2.2.2)
+  - IHKeyboardAvoiding (4.2)
+  - SCLAlertView (0.8)
+  - SnapKit (4.0.0)
+  - SpreadsheetView (0.8.4)
+  - SVProgressHUD (2.2.2)
+  - TransitionableTab (0.1.2)
+  - ViewAnimator (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlertOnboarding
+  - CarbonKit
+  - IHKeyboardAvoiding
+  - SCLAlertView
+  - SnapKit (~> 4.0.0)
+  - SpreadsheetView
+  - SVProgressHUD
+  - TransitionableTab (~> 0.1.2)
+  - ViewAnimator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlertOnboarding
+    - CarbonKit
+    - IHKeyboardAvoiding
+    - SCLAlertView
+    - SnapKit
+    - SpreadsheetView
+    - SVProgressHUD
+    - TransitionableTab
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlertOnboarding: 2e6804e67894894807c5d24bcfcd7905897e6f08
+  CarbonKit: 0dec4738fa489b4c043a5f850c27fd0dbefb57cc
+  IHKeyboardAvoiding: 9fbf816b7c3c84911964802ff110d12caf40ebef
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SpreadsheetView: 17c55b6dc82099993cc2ceb818248d19f3220998
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  TransitionableTab: 2c4af884ff0048b560269245ab6880bd5db67c5e
+  ViewAnimator: 1f3fa25f3c9010ab0dda06cf9e3e49a4b55834ff
+
+PODFILE CHECKSUM: fa78e1abd4f953f66eedfc6d1c6feab7834851f4
+
+COCOAPODS: 1.5.3
